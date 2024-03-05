@@ -1,6 +1,8 @@
 package com.github.zipcodewilmington;
 
 
+import java.util.Random;
+
 /**
  * @author xt0fer
  * @version 1.0.0
@@ -8,4 +10,6 @@ package com.github.zipcodewilmington;
  */
 public class Hangman {
     // Name: Diksha Sharma
+
 }
+
